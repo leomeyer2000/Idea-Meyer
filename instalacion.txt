@@ -1,0 +1,6 @@
+1) Ejecutar 01_creacion_tablas.sql
+2) Ejecutar 02_informacion_tablas.sql
+3) Ejecutar 03_creacion_vistas.sql
+4) Ejecutar 04_creacion_funciones.sql
+5) Ejecutar 05_creacion_procedures.sql
+6) Ejecutar 06_creacion_triggers.sql
